@@ -1,5 +1,7 @@
 public class Greeting {
-
+  
+public void sayHello() { System.out.println("Hello!"); }
+  
   private String greeting;
 
   public Greeting(String greeting) {
